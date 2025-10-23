@@ -87,8 +87,6 @@ menu.html
   </header>
 
   <section class="menu-grid">
-    <!-- Repeat for 09 items -->
-    
    
     <div class="menu-item">
       <img src="mac.jpg" alt="Mac & Cheese">
@@ -230,8 +228,6 @@ contact.html
   
 
 
- <!-- Optional: Contact Form (if needed) -->
-  <!--
   <section class="contact-form">
     <form>
       <label for="name">Name:</label><br>
@@ -246,7 +242,6 @@ contact.html
       <button type="submit">Send Message</button>
     </form>
   </section>
-  -->
 
   <footer>
     <p>&copy; 2025. Designed by  Sri Saran J</p>
@@ -256,9 +251,6 @@ contact.html
 </html>
 
 style.css
-
-
-/* style.css */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -350,10 +342,9 @@ footer {
 ```
 
 ## OUTPUT:
-![alt text](Screenshot_8-10-2025_225453_127.0.0.1.jpeg) 
-![alt text](Screenshot_8-10-2025_225444_127.0.0.1.jpeg) 
-![alt text](Screenshot_8-10-2025_225425_127.0.0.1.jpeg) 
-![alt text](Screenshot_8-10-2025_22547_127.0.0.1.jpeg)
-
+![alt text](<Screenshot 2025-10-23 135906.png>)
+ ![alt text](<Screenshot 2025-10-23 135917.png>) 
+ ![alt text](<Screenshot 2025-10-23 135932.png>) 
+ ![alt text](<Screenshot 2025-10-23 135945.png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
