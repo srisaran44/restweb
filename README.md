@@ -338,7 +338,8 @@ footer {
   color: white;
   text-align: center;
   padding: 10px;
-}```
+}
+```
 
 ## OUTPUT:
 ![alt text](Screenshot_8-10-2025_225453_127.0.0.1.jpeg) 
